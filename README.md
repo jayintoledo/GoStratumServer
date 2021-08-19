@@ -27,6 +27,7 @@ DERO Golang Pool is currently in alpha stages and feedback/fixes are always welc
 * (FUTURE) PPLNS and potentially other pool schemes support
 * (FUTURE) Management functions/go files for modifying/reporting of payments etc.
 * (FUTURE) More feature sets within the frontend such as admin page etc.
+* New pool
 
 ## Table of Contents
 1. [Requirements](#requirements) 
